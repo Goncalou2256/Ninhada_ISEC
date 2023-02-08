@@ -123,4 +123,4 @@ async def on_ready():
 
 """
 
-bot.run('MTA2NzUzMTY2MjYzNzkyODUyOA.GiR9h7.VIOC__YF8uTDjvCLsjtrj0RdDwlG0a2o1vl1jc')
+bot.run('TOKEN')
